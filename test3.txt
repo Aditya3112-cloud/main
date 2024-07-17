@@ -1,0 +1,5 @@
+this is aditya jadhav
+cloud engineer
+applied cloud computing
+1.4 years of experience
+dong task of kinesis data stream with s3 and lambda function.
